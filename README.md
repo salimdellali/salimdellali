@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-[![badge](https://www.codewars.com/users/salimdellali/badges/micro)](https://www.codewars.com/users/salimdellali)
-
 <!--
 **salimdellali/salimdellali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
