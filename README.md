@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects and experiences are available at: [https://salimdellali.com](https://salimdellali.com)
 
-- 📫 How to reach me: **dellali.salim@gmail.com**
-
 - 📄 Know about my experiences: [https://www.linkedin.com/in/dellalisalim/](https://www.linkedin.com/in/dellalisalim/)
 
 - ⚡ Fun fact: **I like Llamas and think they are cool 🦙**
