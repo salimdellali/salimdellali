@@ -1,11 +1,11 @@
 <h1 align="center">Yo 🙌, it's Salim Dellali</h1>
-<h3 align="center">Backend Node.js Developer, Leveraging AI & Prompt Engineering</h3>
+<h3 align="center">Fullstack Developer (React.js / Node.js) & AI Engineer</h3>
 
 - 🔭 I’m currently working on: [Pizza Order Taker AI Chatbot 🤖🍕😊](https://github.com/salimdellali/pizza-order-taker-ai-chatbot)
 
-- 🌱 I’m currently learning: **Next.js**
+- 🌱 I’m currently learning: **Claude Code**
 
-- 🤝 I’m looking for help with: **OpenAI API, Vercel AI SDK, AI Agents, RAGs**
+- 🤝 I’m looking for help with: **Claude Code, Agentic AI**
 
 - 👨‍💻 All of my projects and experiences are available at: [https://salimdellali.com](https://salimdellali.com)
 
