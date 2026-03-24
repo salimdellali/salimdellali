@@ -1,8 +1,6 @@
 <h1 align="center">Yo 🙌, it's Salim Dellali</h1>
 <h3 align="center">Fullstack Developer (React.js / Node.js) & AI Engineer</h3>
 
-- 🔭 I’m currently working on: [Pizza Order Taker AI Chatbot 🤖🍕😊](https://github.com/salimdellali/pizza-order-taker-ai-chatbot)
-
 - 🌱 I’m currently learning: **Claude Code**
 
 - 🤝 I’m looking for help with: **Claude Code, Agentic AI**
